@@ -8,8 +8,8 @@
 
     <EditText
         android:id="@+id/etEmail"
-        android:layout_width="516dp"
-        android:layout_height="56dp"
+        android:layout_width="517dp"
+        android:layout_height="53dp"
         android:ems="10"
         android:inputType="textEmailAddress"
         app:layout_constraintBottom_toBottomOf="parent"
